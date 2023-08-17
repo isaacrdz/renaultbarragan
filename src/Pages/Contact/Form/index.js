@@ -34,9 +34,15 @@ const ContactForm = ({ cars, contact, vehicle }) => {
     setLoading(true);
     const userData = {
       ...data,
+      reason: `${data.reason} - Nuevo registro Renault Barragan`,
+      emails: [
+        "ana.favela@surman.com",
+        "karina.hernandez@surman.com",
+        "surman-renault-lindavista-adwords@leads.getsirena.com",
+        "trodriguez@yeloubox.com",
+      ],
       name: capitalizeFirstLetter(data.name),
       email: trimAndLowerCase(data.email),
-      landing: "renaut_lindavista",
     };
 
     const config = {
