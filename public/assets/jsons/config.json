@@ -34,12 +34,16 @@
     }
   ],
   "banners": {
-    "version": "230713",
+    "version": "230822",
     "list": [
-      { "group": "duster", "type": "jpg", "image": "Duster" },
-      { "group": "koleos", "type": "jpg", "image": "Koleos" },
-      { "group": "kwid", "type": "jpg", "image": "Kwid" },
-      { "group": "stepway", "type": "jpg", "image": "Stepway" }
+      { "group": "duster", "type": "png", "image": "duster" },
+      { "group": "koleos", "type": "png", "image": "koleos" },
+      { "group": "kwid", "type": "png", "image": "kwid" },
+      { "group": "kwid", "type": "png", "image": "kwid1" },
+      { "group": "stepway", "type": "png", "image": "stepaway" },
+      { "group": "kangoo", "type": "png", "image": "kangoo" },
+      { "group": "logan", "type": "png", "image": "logan" },
+      { "group": "oroch", "type": "png", "image": "oroch" }
     ]
   },
   "schedules": [],
