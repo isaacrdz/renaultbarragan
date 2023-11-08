@@ -34,7 +34,7 @@
     }
   ],
   "banners": {
-    "version": "230713",
+    "version": "230822",
     "list": [
       { "group": "", "type": "png", "image": "duster" },
       { "group": "", "type": "png", "image": "kangoo" },
@@ -65,7 +65,7 @@
   "contact": {
     "text": "Para contactarnos por favor llena este sencillo formulario y no olvides explicar el motivo antes de hacer clic en el botón de Enviar. Pronto nos pondremos en contacto contigo para hacer un oportuno seguimiento de tu caso.",
     "address": "Av. Manuel L. Barragán 100-interior A, Residencial Anahuac Nte, 66457 San Nicolás de los Garza, N.L., Mexico",
-    "map": "https://www.google.com/maps/place/Renault+Barrag%C3%A1n/@25.7468189,-100.3111212,15z/data=!4m2!3m1!1s0x0:0x5f5542d5d3343f41?sa=X&ved=2ahUKEwih_7uLmtGAAxXSI0QIHeaLC5YQ_BJ6BAg-EAA&ved=2ahUKEwih_7uLmtGAAxXSI0QIHeaLC5YQ_BJ6BAhOEAg",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3593.718422511606!2d-100.31369612376709!3d25.746823709218283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x866295a7ccd8863f%3A0x5f5542d5d3343f41!2sRenault%20Barrag%C3%A1n!5e0!3m2!1sen!2sus!4v1692723594735!5m2!1sen!2sus",
     "options": [
       {
         "type": "whatsapp",
