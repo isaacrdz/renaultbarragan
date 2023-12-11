@@ -34,16 +34,15 @@
     }
   ],
   "banners": {
-    "version": "230822",
+    "version": "301123",
     "list": [
-      { "group": "duster", "type": "png", "image": "duster" },
-      { "group": "koleos", "type": "png", "image": "koleos" },
-      { "group": "kwid", "type": "png", "image": "kwid" },
-      { "group": "kwid", "type": "png", "image": "kwid1" },
-      { "group": "stepway", "type": "png", "image": "stepaway" },
-      { "group": "kangoo", "type": "png", "image": "kangoo" },
-      { "group": "logan", "type": "png", "image": "logan" },
-      { "group": "oroch", "type": "png", "image": "oroch" }
+      { "group": "", "type": "png", "image": "duster" },
+      { "group": "", "type": "png", "image": "kangoo" },
+      { "group": "", "type": "png", "image": "koleos" },
+      { "group": "", "type": "png", "image": "kwid" },
+      { "group": "", "type": "png", "image": "logan" },
+      { "group": "", "type": "png", "image": "oroch" },
+      { "group": "", "type": "png", "image": "stepway" }
     ]
   },
   "schedules": [],
