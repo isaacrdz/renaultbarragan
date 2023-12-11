@@ -34,7 +34,7 @@
     }
   ],
   "banners": {
-    "version": "230822",
+    "version": "301123",
     "list": [
       { "group": "", "type": "png", "image": "duster" },
       { "group": "", "type": "png", "image": "kangoo" },
