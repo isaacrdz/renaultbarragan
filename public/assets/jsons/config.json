@@ -38,9 +38,7 @@
     "list": [
       { "group": "", "type": "png", "image": "duster" },
       { "group": "", "type": "png", "image": "kangoo" },
-      { "group": "", "type": "png", "image": "koleos" },
       { "group": "", "type": "png", "image": "kwid" },
-      { "group": "", "type": "png", "image": "logan" },
       { "group": "", "type": "png", "image": "oroch" },
       { "group": "", "type": "png", "image": "stepway" }
     ]
