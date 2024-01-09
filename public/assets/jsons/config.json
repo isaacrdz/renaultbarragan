@@ -1,12 +1,6 @@
 {
   "cars": [
     {
-      "id": "captur",
-      "title": "CAPTUR",
-      "image": "captur_2023",
-      "to": "captur"
-    },
-    {
       "id": "duster",
       "title": "DUSTER",
       "image": "duster_2022",
