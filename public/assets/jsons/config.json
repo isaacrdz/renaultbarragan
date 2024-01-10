@@ -1,12 +1,6 @@
 {
   "cars": [
     {
-      "id": "captur",
-      "title": "CAPTUR",
-      "image": "captur_2023",
-      "to": "captur"
-    },
-    {
       "id": "duster",
       "title": "DUSTER",
       "image": "duster_2022",
@@ -38,9 +32,7 @@
     "list": [
       { "group": "", "type": "png", "image": "duster" },
       { "group": "", "type": "png", "image": "kangoo" },
-      { "group": "", "type": "png", "image": "koleos" },
       { "group": "", "type": "png", "image": "kwid" },
-      { "group": "", "type": "png", "image": "logan" },
       { "group": "", "type": "png", "image": "oroch" },
       { "group": "", "type": "png", "image": "stepway" }
     ]
